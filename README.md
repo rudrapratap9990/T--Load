@@ -62,5 +62,28 @@ TYPE NAME :
     Here type your name which you want to show in your terminal.
 
 
-  
+  WARNING :
+
+This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
+About
+
+New Interface And Loading Screen For Termux Users
+www.noob-hackers.com/
+Topics
+terminal hacking termux hacking-tool termux-recommended-for-android kali-scripts termux-banner hackingtools termux-hacking termux-tools noob-hackers bashscripts
+Resources
+Readme
+License
+MIT license
+Activity
+Stars
+635 stars
+Watchers
+32 watching
+Forks
+104 forks
+Report repository
+Languages
+
+Shell 100.0%
   
