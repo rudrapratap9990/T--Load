@@ -36,7 +36,7 @@ INSTALLATION [Termux] :
     pkg install python2 -y
     pkg install git -y
     pip install lolcat
-     git clone https://github.com/noob-hackers/T-LOAD
+     https://github.com/rudrapratap9990/T--Load.git
     cd $HOME
     ls
     cd T-LOAD
